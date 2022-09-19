@@ -2,7 +2,6 @@
 
 
 - 🔭 Atualmente trabalhando fora da área
-- 🌱 Estudando Python
 - 🏫 Cursando Ciência da Computação - Universidade Anhembi Morumbi 
 
 
